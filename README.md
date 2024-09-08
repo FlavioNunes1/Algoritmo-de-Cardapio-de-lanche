@@ -1,4 +1,4 @@
-istema de Pedidos de Lanches - C
+Sistema de Pedidos de Lanches - C
 Descrição
 Este é um programa em C que simula um simples sistema de pedidos de lanches em uma lanchonete. O usuário pode escolher um item do menu e informar a quantidade desejada, e o programa calcula o valor total da compra.
 
